@@ -48,6 +48,7 @@ return {
       { "<leader>s", group = "searcher & split" },
       { "<leader>l", group = "lsp" },
       { "<leader>g", group = "git" },
+      { "<leader>k", group = "live server" }
 		})
 	end,
 }
